@@ -1,5 +1,5 @@
 body {
-    background-image: url(src/imagens/fundo-site.jpg);
+    background-image: url(./src/imagens/fundo-site.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
