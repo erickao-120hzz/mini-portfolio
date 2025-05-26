@@ -31,6 +31,8 @@ Este projeto foi feito com o objetivo de praticar meus conhecimentos em desenvol
 - [Facebook](https://www.facebook.com/ErickCarvalho26)
 - [Discord](https://discord.com/invite/YfDZbKJVt5)
 
+Sinta-se à vontade para contribuir ou deixar sugestões! e-mail: erickcarvalho661@hotmail.com.
+
 ---
 
 🧠 Em constante aprendizado e evolução. Em breve, novas versões com:
