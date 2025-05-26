@@ -2,6 +2,8 @@
 
 Projeto pessoal criado com **HTML**, **CSS** e **JavaScript** para apresentar meu mini portfólio como Desenvolvedor Web.
 
+## - LINK: https://erickao-120hzz.github.io/mini-portfolio/
+
 ---
 
 ## Tecnologias Utilizadas
