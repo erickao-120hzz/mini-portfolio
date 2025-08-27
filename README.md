@@ -10,9 +10,9 @@ Projeto pessoal criado com **HTML**, **CSS** e **JavaScript** para apresentar me
 
 | Tecnologia | Nível                                                     |
 | ---------- | --------------------------------------------------------- |
-| HTML       | ![100%](https://img.shields.io/badge/-100%25-brightgreen) |
-| CSS        | ![90%](https://img.shields.io/badge/-90%25-green)         |
-| JavaScript | ![75%](https://img.shields.io/badge/-75%25-yellow)        |
+| HTML       | ![53.1%](https://img.shields.io/badge/-100%25-brightgreen) |
+| CSS        | ![36.3%](https://img.shields.io/badge/-90%25-green)         |
+| JavaScript | ![10.6%](https://img.shields.io/badge/-75%25-yellow)        |
 
 ---
 
@@ -26,7 +26,7 @@ Este projeto foi feito para praticar meus conhecimentos e criar uma apresentaç�
 
 ---
 
-## 📸 Preview
+##  Preview
 
 ![Preview do Projeto](./src/imagens/imagem-projeto.jpg)
 
@@ -44,13 +44,12 @@ Este projeto foi feito para praticar meus conhecimentos e criar uma apresentaç�
 
 ---
 
-📧 Para sugestões ou contribuições: erickcarvalho661@hotmail.com
+- Para sugestões ou contribuições: erickcarvalho661@hotmail.com
 
 ---
 
-🧠 Em constante aprendizado e evolução. Em breve:
+- Em constante aprendizado e evolução. Em breve:
 
 - TypeScript
 - React
 - Node.js
-- SQL
