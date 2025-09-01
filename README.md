@@ -38,7 +38,7 @@ Este projeto foi feito para praticar meus conhecimentos e criar uma apresenta√ß√
 | ---------- | ------------------------------------------------------------------------------------------------- |
 | LinkedIn   | [linkedin.com/in/erick-carvalho-394860243](https://www.linkedin.com/in/erick-carvalho-394860243/) |
 | GitHub     | [github.com/erickao-120hzz](https://github.com/erickao-120hzz)                                    |
-| Instagram  | [instagram.com/erickzdv](https://www.instagram.com/erickzdv)                                      |
+| Instagram  | [instagram.com/erickzdv](https://www.instagram.com/tio.erickao)                                      |
 | Facebook   | [facebook.com/ErickCarvalho26](https://www.facebook.com/ErickCarvalho26)                          |
 | Discord    | [discord.com/invite/YfDZbKJVt5](https://discord.com/invite/YfDZbKJVt5)                            |
 
